@@ -1,0 +1,15 @@
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\bin\Debug\net6.0\Estructura_datos.exe
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\bin\Debug\net6.0\Estructura_datos.deps.json
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\bin\Debug\net6.0\Estructura_datos.runtimeconfig.json
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\bin\Debug\net6.0\Estructura_datos.dll
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\bin\Debug\net6.0\Estructura_datos.pdb
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.csproj.AssemblyReference.cache
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.AssemblyInfoInputs.cache
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.AssemblyInfo.cs
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.csproj.CoreCompileInputs.cache
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.dll
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\refint\Estructura_datos.dll
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.pdb
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\Estructura_datos.genruntimeconfig.cache
+C:\Users\Said Serrano\OneDrive\Documentos\Trabajos externos\Asesorias_estructura de datos\codigo\Estructura_datos\Estructura_datos\obj\Debug\net6.0\ref\Estructura_datos.dll
