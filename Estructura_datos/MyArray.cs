@@ -81,9 +81,9 @@ namespace Estructura_datos
             }
 
             T[] newArray = new T[array.Length - 1];
-            for (int i = 0, j = 0; i < array.Length; i++, j++)
+            for (int i = 0, j = 0; i < newArray.Length; i++, j++)
             {
-                if (i == index)
+                if (j == index)
                 {
                     j++;
                 }
@@ -91,6 +91,7 @@ namespace Estructura_datos
             }
             array = newArray;
         }
+
 
         // Método para limpiar el arreglo, eliminando todos los elementos
         public void Clear()
